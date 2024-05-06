@@ -26,7 +26,6 @@ CREATE TABLE IF NOT EXISTS `db_sortiment`.`Hersteller` (
 )
 ENGINE = InnoDB;
 
-
 -- -----------------------------------------------------
 -- Erstellung Tabelle `db_sortiment`.`Artikel`
 -- -----------------------------------------------------
