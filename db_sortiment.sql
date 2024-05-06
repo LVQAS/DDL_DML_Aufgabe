@@ -1,3 +1,7 @@
+-- Erstellt von Lukas Belz
+-- Klasse 2FS271
+-- AP11
+
 -- --------------------------------------------------------------------------------------
 -- Speichert aktuelle Einstellungen und setzt temporäre Einstellungen für den Datenimport
 -- --------------------------------------------------------------------------------------
